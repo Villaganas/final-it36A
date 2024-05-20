@@ -4,7 +4,7 @@ import { defineConfig } from 'vite'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: 'final-it36A/',
+  base: '/final-it36A/',
   plugins: [
     react(),
     legacy()
